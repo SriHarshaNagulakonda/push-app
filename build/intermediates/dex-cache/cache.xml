@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\3d593518d166a47fbce77ff086304fbe0924ec36\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01fdfca047e5869ecd6eae9a3083d90c4d6f2212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4ea63200ec664ebd6dee7218085e2e2d78c8790">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abc5f072df0f8d0b0e3df3e05295e4862028d903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_cde9b2fa200a025ad4d5b2b81a080cf06b024f99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\7d482f9ac36b84c852ae4689b0e3bb1477bccf35\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cd3425801837ce0647b7d4d561a8c2ab0311952">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd30e953b5c42ab0ac445c261b9757e46875e3c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c087e0abfcd4ef5508c43f1ef2c0f9cafe7b9e4d">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ff1ce26f986656fd3a66930a3f67203ac4fe843a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\6a1af962d8c4f7b48bbff9f9fdd5c323730d63ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be5b4c87ace1ba8f87fc33b6e9a15f5b2e502ebd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\f9003d10a2444ab95d6ef3ef2c7ec3be89441f0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8be828159119cf0f4f676e347bab060a0de17a76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\2c7d86440c83c0329e87b3d201e81855f58b01cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7738fc6ccc99f05b7ba4d6312accb8113aea0e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\e68468b90cf27b102a15f2e0c7de362fe761afd3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b3dad9b2bd2be81eaa0e5085e17877945aa3a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\df853d512699f459f8d8cb80a578a6dea1a7b7ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08607f5d4111e79c226bc6f22e32372bcfd37997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\2ea754780cb9b136128a165ace8c347d9e30844c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c04129b8a449c5ee4e7718fcc779d74f36bb2c26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\901b7614456256c9877f879b086d62d8910804a6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebf578e7fa3f015b7dd4e8a8ca073c36d73fe350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_ea984f41057856896438a0bc1d7ed0b012b94539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\b4ca26c4d5bbba522526374eedbb3b07a2bdda5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fc124d80416b652bc875fc6a9044544e684f4c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\d1fc2c49f29bb06e17fcd21f3f27fcb5b2f9f477\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2449a80bb01e9cca87cbd7f869b1a7a84221899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\fbc14da23bf321696243d8c37ad486c017545cbc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bc2db7ae9a467ffc9ea8a8d274692167772cd8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\c6de0a9949fcaa1b586b53da7c89eb6f5dc01987\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5414c52b4b011781930d9df007c46e5cb7d8a083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\3be926f18eb922f2c28facf89c7032b7544b96cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5fe60aa295f9b2651a8311d713f1c2bb04cb60a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_68c897091d00437988acaf47ddd925486e137b72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO\.android\build-cache\816d61a985d9e13acb5e5e8383ff664ac3565e2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_667e5852d15ada75aa270da3fd66744dcc5fa4d2\classes.dex" />
+    </item>
+
+</items>

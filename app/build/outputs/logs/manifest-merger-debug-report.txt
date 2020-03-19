@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:10:5-31:19
+MERGED from [com.intentfilter:android-permissions:0.1.2] C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\AndroidManifest.xml:11:5-20:19
+MERGED from [com.karumi:dexter:3.0.2] C:\Users\LENOVO\.android\build-cache\7d482f9ac36b84c852ae4689b0e3bb1477bccf35\output\AndroidManifest.xml:26:5-31:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\LENOVO\.android\build-cache\d1fc2c49f29bb06e17fcd21f3f27fcb5b2f9f477\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\LENOVO\.android\build-cache\fbc14da23bf321696243d8c37ad486c017545cbc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\LENOVO\.android\build-cache\3be926f18eb922f2c28facf89c7032b7544b96cd\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\LENOVO\.android\build-cache\816d61a985d9e13acb5e5e8383ff664ac3565e2d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\LENOVO\.android\build-cache\b4ca26c4d5bbba522526374eedbb3b07a2bdda5a\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\LENOVO\.android\build-cache\e68468b90cf27b102a15f2e0c7de362fe761afd3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\LENOVO\.android\build-cache\c6de0a9949fcaa1b586b53da7c89eb6f5dc01987\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\LENOVO\.android\build-cache\901b7614456256c9877f879b086d62d8910804a6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\LENOVO\.android\build-cache\2ea754780cb9b136128a165ace8c347d9e30844c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\LENOVO\.android\build-cache\3d593518d166a47fbce77ff086304fbe0924ec36\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\LENOVO\.android\build-cache\f9003d10a2444ab95d6ef3ef2c7ec3be89441f0e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\LENOVO\.android\build-cache\df853d512699f459f8d8cb80a578a6dea1a7b7ef\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\LENOVO\.android\build-cache\6a1af962d8c4f7b48bbff9f9fdd5c323730d63ea\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:12:9-38
+	android:theme
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:16:9-40
+activity#xyz.himanshu.womensafety.Add_Numbers
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:17:9-49
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:17:19-46
+activity#xyz.himanshu.womensafety.MainActivity
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:18:9-50
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:18:19-47
+activity#xyz.himanshu.womensafety.Tips
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:19:9-42
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:19:19-39
+activity#xyz.himanshu.womensafety.WomenSecurityApp
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:theme
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:21:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:26:27-74
+activity#xyz.himanshu.womensafety.Main2Activity
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:29:19-48
+activity#xyz.himanshu.womensafety.Phone
+ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml:30:19-40
+uses-sdk
+INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.intentfilter:android-permissions:0.1.2] C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.karumi:dexter:3.0.2] C:\Users\LENOVO\.android\build-cache\7d482f9ac36b84c852ae4689b0e3bb1477bccf35\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\LENOVO\.android\build-cache\d1fc2c49f29bb06e17fcd21f3f27fcb5b2f9f477\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\LENOVO\.android\build-cache\fbc14da23bf321696243d8c37ad486c017545cbc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\LENOVO\.android\build-cache\3be926f18eb922f2c28facf89c7032b7544b96cd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\LENOVO\.android\build-cache\2c7d86440c83c0329e87b3d201e81855f58b01cc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\LENOVO\.android\build-cache\816d61a985d9e13acb5e5e8383ff664ac3565e2d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\LENOVO\.android\build-cache\b4ca26c4d5bbba522526374eedbb3b07a2bdda5a\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\LENOVO\.android\build-cache\e68468b90cf27b102a15f2e0c7de362fe761afd3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\LENOVO\.android\build-cache\c6de0a9949fcaa1b586b53da7c89eb6f5dc01987\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\LENOVO\.android\build-cache\901b7614456256c9877f879b086d62d8910804a6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\LENOVO\.android\build-cache\2ea754780cb9b136128a165ace8c347d9e30844c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\LENOVO\.android\build-cache\3d593518d166a47fbce77ff086304fbe0924ec36\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\LENOVO\.android\build-cache\f9003d10a2444ab95d6ef3ef2c7ec3be89441f0e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\LENOVO\.android\build-cache\df853d512699f459f8d8cb80a578a6dea1a7b7ef\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\LENOVO\.android\build-cache\6a1af962d8c4f7b48bbff9f9fdd5c323730d63ea\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\LENOVO\.android\build-cache\d1fc2c49f29bb06e17fcd21f3f27fcb5b2f9f477\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\LENOVO\AndroidStudioProjects\theSafetyTouch-master\app\src\main\AndroidManifest.xml
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.2] C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\AndroidManifest.xml:15:9-19:59
+	android:screenOrientation
+		ADDED from [com.intentfilter:android-permissions:0.1.2] C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\AndroidManifest.xml:18:13-49
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.2] C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\AndroidManifest.xml:17:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.2] C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.2] C:\Users\LENOVO\.android\build-cache\1973aaf31920968b43f009a4063100646f0b9072\output\AndroidManifest.xml:16:13-83
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:3.0.2] C:\Users\LENOVO\.android\build-cache\7d482f9ac36b84c852ae4689b0e3bb1477bccf35\output\AndroidManifest.xml:27:9-30:56
+	android:launchMode
+		ADDED from [com.karumi:dexter:3.0.2] C:\Users\LENOVO\.android\build-cache\7d482f9ac36b84c852ae4689b0e3bb1477bccf35\output\AndroidManifest.xml:29:13-48
+	android:theme
+		ADDED from [com.karumi:dexter:3.0.2] C:\Users\LENOVO\.android\build-cache\7d482f9ac36b84c852ae4689b0e3bb1477bccf35\output\AndroidManifest.xml:30:13-53
+	android:name
+		ADDED from [com.karumi:dexter:3.0.2] C:\Users\LENOVO\.android\build-cache\7d482f9ac36b84c852ae4689b0e3bb1477bccf35\output\AndroidManifest.xml:28:13-60
